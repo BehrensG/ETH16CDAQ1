@@ -9994,7 +9994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ETH1ACPL-C79x:NX5032GA"
+		(property "Footprint" "ETH16CDAQ1:NX5032GA"
 			(at 80.01 125.73 0)
 			(effects
 				(font
