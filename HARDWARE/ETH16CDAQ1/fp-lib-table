@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ETH16CDAQ1")(type "KiCad")(uri "${KIPRJMOD}/lib/PCB/ETH16CDAQ1.pretty")(options "")(descr ""))
+)

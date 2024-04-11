@@ -1,0 +1,595 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "2ab14781-f8f9-43b8-b10b-375641815f01")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 168.91 72.39) (xy 173.99 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34ff998c-2380-462e-9f0a-c010eed8bb88")
+	)
+	(wire
+		(pts
+			(xy 168.91 77.47) (xy 173.99 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d31b4ed-e5ca-4fa8-8d19-829bbc8a2254")
+	)
+	(wire
+		(pts
+			(xy 168.91 67.31) (xy 173.99 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e3165fd-f7bb-4fc5-aad4-c044037eb906")
+	)
+	(wire
+		(pts
+			(xy 168.91 57.15) (xy 173.99 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cc09f27-50b3-4fce-998f-cebe08a3c0b6")
+	)
+	(wire
+		(pts
+			(xy 168.91 59.69) (xy 173.99 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "903b0e59-b734-45e8-afb6-967e7682125f")
+	)
+	(wire
+		(pts
+			(xy 168.91 62.23) (xy 173.99 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4b992db-1681-4c66-8c7f-f1dea7fafa4c")
+	)
+	(wire
+		(pts
+			(xy 168.91 64.77) (xy 173.99 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e667e605-3019-4dba-a681-9047c4ad530f")
+	)
+	(wire
+		(pts
+			(xy 168.91 54.61) (xy 173.99 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec49ebe4-117f-4c52-bf36-8166438ecd6b")
+	)
+	(wire
+		(pts
+			(xy 168.91 69.85) (xy 173.99 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f735fe6c-f60b-465d-9aa8-cccdd3e5918b")
+	)
+	(wire
+		(pts
+			(xy 168.91 74.93) (xy 173.99 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd7a760c-d630-42de-8829-c605cd24947e")
+	)
+	(sheet
+		(at 74.295 50.8)
+		(size 45.085 43.18)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5ad8e59d-6a91-4917-9ad2-7e7a7879d3c0")
+		(property "Sheetname" "Analog"
+			(at 74.295 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Analog.kicad_sch"
+			(at 74.295 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MUX2_A2" input
+			(at 119.38 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bdc68e30-6e7a-4dae-ac09-8d51c26358e6")
+		)
+		(pin "MUX2_A1" input
+			(at 119.38 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "766657e5-0cee-4501-9e64-83c82954a1a4")
+		)
+		(pin "MUX2_A0" input
+			(at 119.38 70.485 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c96cbe09-ad70-4f04-a19a-1d86b9d16a9b")
+		)
+		(pin "MUX_EN" input
+			(at 119.38 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7ca41618-3473-421e-96a1-027e011c9c6a")
+		)
+		(pin "MUX1_A1" input
+			(at 119.38 62.865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5bd9c497-d99f-4524-ad59-8f31173bdcf5")
+		)
+		(pin "MUX1_A2" input
+			(at 119.38 65.405 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "72739add-7bc2-4dea-b66c-2d805cc0cae0")
+		)
+		(pin "MUX1_A0" input
+			(at 119.38 60.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f06eb56c-388a-4df9-b073-6310daca19c0")
+		)
+		(pin "OUT-" output
+			(at 119.38 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3b60c7f7-fb6f-4f99-83fe-594f42087ad9")
+		)
+		(pin "OUT+" output
+			(at 119.38 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0e54e5c7-eea3-4b08-bd35-2e3cf2426c9c")
+		)
+		(pin "SPI_~{CS}" input
+			(at 119.38 81.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "97925a3d-5f2f-4d90-8ef6-99d4f63269f4")
+		)
+		(pin "SPI_MOSI" input
+			(at 119.38 84.455 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0d15b4e6-1bf1-42bc-85b1-2364947df6bf")
+		)
+		(pin "SPI_SCLK" input
+			(at 119.38 86.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "24d814a7-40aa-48d7-99b9-03a454fec105")
+		)
+		(pin "SPI_MISO" output
+			(at 119.38 89.535 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ad908413-1390-45c4-8603-cf1bca7ee802")
+		)
+		(instances
+			(project "ETH16CDAQ1"
+				(path "/2ab14781-f8f9-43b8-b10b-375641815f01"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 124.46 50.8)
+		(size 44.45 43.18)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7d386863-9fa8-4cc6-bc38-6e3adc137f8b")
+		(property "Sheetname" "MCU"
+			(at 124.46 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 124.46 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RMII_TXEN" bidirectional
+			(at 168.91 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "288114ef-2cdf-4735-b8fb-39009f5e985a")
+		)
+		(pin "RMII_TXD0" bidirectional
+			(at 168.91 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "272e22d7-fe84-4dbf-b6a5-184663fca122")
+		)
+		(pin "RMII_TXD1" bidirectional
+			(at 168.91 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7cf6aaf0-86d2-4bf1-93ac-550941474a0f")
+		)
+		(pin "REF_CLK" bidirectional
+			(at 168.91 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6b4f8477-2670-41e8-80c7-ac08743d703e")
+		)
+		(pin "RMII_MDIO" bidirectional
+			(at 168.91 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "615c01bf-96d4-460a-b0a9-5be58d04b7ff")
+		)
+		(pin "RMII_CRS_DV" bidirectional
+			(at 168.91 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2f777f31-7c4b-4559-9a3a-9dc822d717f5")
+		)
+		(pin "RMII_MDC" bidirectional
+			(at 168.91 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8d919b61-2312-4fb3-85f9-a8c80c2b627e")
+		)
+		(pin "RMII_RXD0" bidirectional
+			(at 168.91 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8f7b9adc-bee5-41de-8297-0ee44a20efc1")
+		)
+		(pin "RMII_RXD1" bidirectional
+			(at 168.91 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "afa9f746-3469-4423-8aad-341fbcac2db9")
+		)
+		(pin "NRST" bidirectional
+			(at 168.91 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "40722b79-2dba-4075-bd9a-592f2549b60f")
+		)
+		(instances
+			(project "ETH16CDAQ1"
+				(path "/2ab14781-f8f9-43b8-b10b-375641815f01"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 74.295 100.965)
+		(size 144.78 41.275)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a78e5881-4993-465d-9d11-dd533bd41502")
+		(property "Sheetname" "Power"
+			(at 74.295 100.2534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 74.295 142.8246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ETH16CDAQ1"
+				(path "/2ab14781-f8f9-43b8-b10b-375641815f01"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 173.99 50.8)
+		(size 45.085 43.18)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fd2c9437-3b30-4ac8-a45b-dc5aa1d5f777")
+		(property "Sheetname" "Ethernet"
+			(at 173.99 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Ethernet.kicad_sch"
+			(at 173.99 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "REF_CLK" bidirectional
+			(at 173.99 62.23 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "04861227-c7a8-4931-a8b7-9436d2fce9ac")
+		)
+		(pin "RMII_MDIO" bidirectional
+			(at 173.99 64.77 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a1d33044-c1a9-4319-bf33-7708bbb89492")
+		)
+		(pin "RMII_MDC" bidirectional
+			(at 173.99 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4de25189-1e2e-4b04-91f6-7a2772c0d4e1")
+		)
+		(pin "NRST" bidirectional
+			(at 173.99 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ba5b1859-43dd-459e-a70a-eb6b12194e7c")
+		)
+		(pin "RMII_TXD1" bidirectional
+			(at 173.99 59.69 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cea0354c-6b26-4f17-a2fb-6afddabe27f4")
+		)
+		(pin "RMII_CRS_DV" bidirectional
+			(at 173.99 67.31 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e8daa64c-c78e-461e-8a14-c49d715ce126")
+		)
+		(pin "RMII_RXD1" bidirectional
+			(at 173.99 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b900fb35-8702-4ada-8cda-9c7a66584279")
+		)
+		(pin "RMII_TXD0" bidirectional
+			(at 173.99 57.15 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ab2e88fc-33b1-4cd3-ab24-3d0600e9043f")
+		)
+		(pin "RMII_TXEN" bidirectional
+			(at 173.99 54.61 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "01e27df1-7d75-459a-9b65-95a019cb7481")
+		)
+		(pin "RMII_RXD0" bidirectional
+			(at 173.99 72.39 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f92f5414-0c50-4524-beae-219119f2c1ab")
+		)
+		(instances
+			(project "ETH16CDAQ1"
+				(path "/2ab14781-f8f9-43b8-b10b-375641815f01"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
