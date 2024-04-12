@@ -4453,16 +4453,6 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 30.48) (xy 91.44 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92062e6d-191e-4a3e-b3f8-3d983827b185")
-	)
-	(wire
-		(pts
 			(xy 90.17 127) (xy 90.17 125.73)
 		)
 		(stroke
@@ -5924,83 +5914,6 @@
 			(project "ETH1IRCAM1"
 				(path "/f8ed47a9-95cb-42d4-bd7f-c1b2ff57d6fd/5a701738-cd49-49a3-a155-1a9f780a319a"
 					(reference "R317")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 91.44 30.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "20b38f4c-17fb-46e1-b501-b648e9abf3e2")
-		(property "Reference" "#FLG0302"
-			(at 91.44 28.575 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 91.44 26.162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 91.44 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 91.44 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 91.44 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "89f99298-9435-485f-bc93-1dce0aff6539")
-		)
-		(instances
-			(project "ETH16CDAQ1"
-				(path "/2ab14781-f8f9-43b8-b10b-375641815f01/fd2c9437-3b30-4ac8-a45b-dc5aa1d5f777"
-					(reference "#FLG0302")
-					(unit 1)
-				)
-			)
-			(project "ETH1HMSR-SMS"
-				(path "/c9f88626-4b87-4d35-a77a-42f8d5451fae/6cffac93-e144-4206-a1fa-eb6db2a641b5"
-					(reference "#FLG02")
-					(unit 1)
-				)
-			)
-			(project "ETH1ACPL-C79x"
-				(path "/e8a00664-7a76-490e-9471-410cd41c5487/2901751b-a680-4678-bb03-eb29728a9ca7"
-					(reference "#FLG0402")
 					(unit 1)
 				)
 			)

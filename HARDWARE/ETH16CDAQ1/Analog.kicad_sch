@@ -3427,7 +3427,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 86.36) (xy 50.8 86.36)
+			(xy 59.69 73.66) (xy 50.8 73.66)
 		)
 		(stroke
 			(width 0)
@@ -3577,7 +3577,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 78.74) (xy 50.8 78.74)
+			(xy 59.69 81.28) (xy 50.8 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3727,7 +3727,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 73.66) (xy 50.8 73.66)
+			(xy 59.69 86.36) (xy 50.8 86.36)
 		)
 		(stroke
 			(width 0)
@@ -4007,7 +4007,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 81.28) (xy 50.8 81.28)
+			(xy 59.69 78.74) (xy 50.8 78.74)
 		)
 		(stroke
 			(width 0)
@@ -4087,7 +4087,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 76.2) (xy 50.8 76.2)
+			(xy 59.69 83.82) (xy 50.8 83.82)
 		)
 		(stroke
 			(width 0)
@@ -4307,7 +4307,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 88.9) (xy 50.8 88.9)
+			(xy 59.69 71.12) (xy 50.8 71.12)
 		)
 		(stroke
 			(width 0)
@@ -4317,7 +4317,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 83.82) (xy 50.8 83.82)
+			(xy 59.69 76.2) (xy 50.8 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4407,7 +4407,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 71.12) (xy 50.8 71.12)
+			(xy 59.69 88.9) (xy 50.8 88.9)
 		)
 		(stroke
 			(width 0)
@@ -4515,8 +4515,8 @@
 		)
 		(uuid "faf3d5e5-20b5-40d5-add6-9d1ccf0469d2")
 	)
-	(label "AIN_8P"
-		(at 59.69 73.66 180)
+	(label "AIN_10"
+		(at 59.69 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4524,10 +4524,21 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "06b65375-b68b-407a-a33b-f0925d74e8f3")
+		(uuid "0154b109-6972-450c-9049-3425af09ccc1")
 	)
-	(label "AIN_8P"
-		(at 104.14 66.04 0)
+	(label "AIN_13"
+		(at 59.69 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1094eec7-7179-4b97-ab30-51b908b3b26f")
+	)
+	(label "AIN_8"
+		(at 104.14 60.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4537,7 +4548,18 @@
 		)
 		(uuid "11d7021f-05eb-4903-833a-718fd8e5d3ad")
 	)
-	(label "AIN_2N"
+	(label "AIN_7"
+		(at 29.21 86.36 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2cdafbbf-a18f-41ec-8023-a6f1b58d8918")
+	)
+	(label "AIN_10"
 		(at 104.14 111.76 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4548,7 +4570,29 @@
 		)
 		(uuid "30934819-766a-4c37-871a-bf678ee4c284")
 	)
-	(label "AIN_3P"
+	(label "AIN_11"
+		(at 59.69 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3b013744-27ed-475d-8fb4-9d2d39f1091b")
+	)
+	(label "AIN_2"
+		(at 29.21 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "48684d74-8c7f-403a-8e99-bdca35eae5c3")
+	)
+	(label "AIN_3"
 		(at 104.14 53.34 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4559,19 +4603,8 @@
 		)
 		(uuid "4af1a93c-e3dc-4f02-9341-c64ad595324a")
 	)
-	(label "AIN_6P"
-		(at 59.69 83.82 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4c2dada0-2814-4520-b313-8aa23e551532")
-	)
-	(label "AIN_7N"
-		(at 104.14 124.46 0)
+	(label "AIN_15"
+		(at 104.14 119.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4581,8 +4614,8 @@
 		)
 		(uuid "514e8c0f-4057-43eb-aa03-95338b0b7e37")
 	)
-	(label "AIN_6N"
-		(at 59.69 81.28 180)
+	(label "AIN_15"
+		(at 59.69 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4590,20 +4623,9 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "5ca80def-b4cd-4cf6-bb0f-9c729ff0b118")
+		(uuid "542b3555-d130-4726-a0d0-837e1f89a2a5")
 	)
-	(label "AIN_3N"
-		(at 29.21 83.82 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "627b377c-91e6-4f64-a471-ecb1b88deb41")
-	)
-	(label "AIN_1P"
+	(label "AIN_1"
 		(at 104.14 48.26 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4613,6 +4635,17 @@
 			(justify left bottom)
 		)
 		(uuid "66440f0e-735b-4456-8c93-2590b04ea39d")
+	)
+	(label "AIN_6"
+		(at 29.21 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "67ca2ab8-2d63-46ab-95e3-2a8970953057")
 	)
 	(label "MUX_EN"
 		(at 104.14 104.14 0)
@@ -4625,8 +4658,8 @@
 		)
 		(uuid "691f32ff-9303-4925-9790-8ffc7cae6ad9")
 	)
-	(label "AIN_2N"
-		(at 29.21 78.74 0)
+	(label "AIN_1"
+		(at 29.21 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4634,10 +4667,10 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "6d4ff2bd-06e9-4a89-b221-a54570e3d18f")
+		(uuid "6ecc0db5-a14a-48bb-b287-240f8ad9475f")
 	)
-	(label "AIN_6P"
-		(at 104.14 60.96 0)
+	(label "AIN_6"
+		(at 104.14 66.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4647,7 +4680,18 @@
 		)
 		(uuid "6ee77b37-153d-4b51-946d-72fa1fb38366")
 	)
-	(label "AIN_4P"
+	(label "AIN_12"
+		(at 59.69 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "70afc25e-8319-4f75-a25e-73159850d93a")
+	)
+	(label "AIN_4"
 		(at 104.14 55.88 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4658,8 +4702,8 @@
 		)
 		(uuid "71a1476b-df2f-4dcb-b54c-a47ec2eec65b")
 	)
-	(label "AIN_5P"
-		(at 59.69 88.9 180)
+	(label "AIN_16"
+		(at 59.69 71.12 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4667,9 +4711,31 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "898caab3-276f-46df-b87a-36de4e9efd98")
+		(uuid "7858d1b6-7b9a-4694-8e12-300cfe80777c")
 	)
-	(label "AIN_1N"
+	(label "AIN_3"
+		(at 29.21 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "811ede9c-1e80-4c9b-9b91-a6b13b15c055")
+	)
+	(label "AIN_4"
+		(at 29.21 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8686626c-02cc-4d8b-a8a4-0c84485437d6")
+	)
+	(label "AIN_9"
 		(at 104.14 109.22 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4680,30 +4746,8 @@
 		)
 		(uuid "89987464-1e0c-42d1-bf87-0a9bb5d7983c")
 	)
-	(label "AIN_8N"
-		(at 59.69 71.12 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8b133805-206c-4600-8343-633858c82044")
-	)
-	(label "AIN_1P"
-		(at 29.21 71.12 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8ca65117-c2ef-40d8-ac33-b65f7cda7c93")
-	)
-	(label "AIN_7P"
-		(at 104.14 63.5 0)
+	(label "AIN_7"
+		(at 104.14 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4713,8 +4757,19 @@
 		)
 		(uuid "947dc69f-85fb-42f5-80ea-1bfeb3e09b2f")
 	)
-	(label "AIN_8N"
-		(at 104.14 127 0)
+	(label "AIN_14"
+		(at 59.69 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9615c96e-3bf7-4f2c-a31b-34d61cb84425")
+	)
+	(label "AIN_16"
+		(at 104.14 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4724,30 +4779,8 @@
 		)
 		(uuid "9bd522ae-c35c-40cc-9539-a0ab6d1a15d9")
 	)
-	(label "AIN_5N"
-		(at 59.69 86.36 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a1e29283-d1da-4e30-ab2a-c56e9727ad45")
-	)
-	(label "AIN_4N"
-		(at 29.21 88.9 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a5fb1ffc-5301-4ed6-9b13-ccf9fcf962a9")
-	)
-	(label "AIN_5P"
-		(at 104.14 58.42 0)
+	(label "AIN_5"
+		(at 104.14 63.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4757,8 +4790,8 @@
 		)
 		(uuid "a6d86872-b711-480f-92be-65f6414750df")
 	)
-	(label "AIN_6N"
-		(at 104.14 121.92 0)
+	(label "AIN_14"
+		(at 104.14 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4768,8 +4801,30 @@
 		)
 		(uuid "aba9f54c-d42e-4b49-ab31-ce5d3f7bf8af")
 	)
-	(label "AIN_5N"
-		(at 104.14 119.38 0)
+	(label "AIN_9"
+		(at 59.69 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b0b93ca4-d540-4275-8d7a-28f2edcb1147")
+	)
+	(label "AIN_8"
+		(at 29.21 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b659dc1e-cff4-4d99-873b-10ebd375bc3a")
+	)
+	(label "AIN_13"
+		(at 104.14 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4778,17 +4833,6 @@
 			(justify left bottom)
 		)
 		(uuid "bf13ea6b-2a4e-47fa-9344-72ef35c0d47e")
-	)
-	(label "AIN_3P"
-		(at 29.21 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c3f60443-0103-41a0-860a-de35a477eb78")
 	)
 	(label "MUX_EN"
 		(at 104.14 43.18 0)
@@ -4801,51 +4845,7 @@
 		)
 		(uuid "cb817402-0029-4b80-9342-ac7b1c6e1414")
 	)
-	(label "AIN_7P"
-		(at 59.69 78.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "cdc3362e-e0cb-4251-a3d5-c8d2d237524f")
-	)
-	(label "AIN_1N"
-		(at 29.21 73.66 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cfcdad04-8efe-411d-8270-7375853671f9")
-	)
-	(label "AIN_4P"
-		(at 29.21 86.36 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d2507f10-d57c-4803-ac2b-0821f5fba2f5")
-	)
-	(label "AIN_2P"
-		(at 29.21 76.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e0174add-bdb4-4b42-85e8-73acaf0deb2c")
-	)
-	(label "AIN_2P"
+	(label "AIN_2"
 		(at 104.14 50.8 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4856,7 +4856,7 @@
 		)
 		(uuid "ea3643aa-d100-47b0-9956-5745f6a11eb3")
 	)
-	(label "AIN_3N"
+	(label "AIN_11"
 		(at 104.14 114.3 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4867,7 +4867,7 @@
 		)
 		(uuid "ea903172-d56e-4187-9274-45f8a85b6e0d")
 	)
-	(label "AIN_4N"
+	(label "AIN_12"
 		(at 104.14 116.84 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4878,16 +4878,16 @@
 		)
 		(uuid "eb14330c-b2e8-4414-902d-9d9abee988fc")
 	)
-	(label "AIN_7N"
-		(at 59.69 76.2 180)
+	(label "AIN_5"
+		(at 29.21 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "f684a4e2-6d69-4dd4-9c14-542434dd01d3")
+		(uuid "fa86fa72-7f76-4609-9e11-b74fb0df662e")
 	)
 	(hierarchical_label "MUX1_A2"
 		(shape input)
