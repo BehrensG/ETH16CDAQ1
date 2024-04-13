@@ -6016,16 +6016,16 @@
 		(uuid "1a030546-fb3e-42cc-9fba-d0f3f8d02df6")
 	)
 	(no_connect
+		(at 187.96 135.89)
+		(uuid "1e5212a8-3f73-45b9-9e3d-9e8cc4d99a70")
+	)
+	(no_connect
 		(at 246.38 152.4)
 		(uuid "1f6813a7-f353-4e0b-9184-daf6f56e07a1")
 	)
 	(no_connect
 		(at 187.96 107.95)
 		(uuid "2a6e9756-2e1a-4352-b32b-d659a5eb7aa2")
-	)
-	(no_connect
-		(at 144.78 125.73)
-		(uuid "34cd0aa9-ec96-43be-a011-1c0aa98033dc")
 	)
 	(no_connect
 		(at 233.68 154.94)
@@ -6136,12 +6136,12 @@
 		(uuid "a56db32b-1a0d-4638-b3b5-7f52f4ae41c8")
 	)
 	(no_connect
-		(at 187.96 95.25)
-		(uuid "afa133e1-7fc5-4d76-b6f7-d586236ee409")
+		(at 187.96 133.35)
+		(uuid "a7cdd0e8-8496-4c1c-8670-87db83e4ecb6")
 	)
 	(no_connect
-		(at 144.78 128.27)
-		(uuid "b5a21847-e039-4963-8746-ed4cbb60535a")
+		(at 187.96 95.25)
+		(uuid "afa133e1-7fc5-4d76-b6f7-d586236ee409")
 	)
 	(no_connect
 		(at 187.96 140.97)
@@ -6162,10 +6162,6 @@
 	(no_connect
 		(at 187.96 82.55)
 		(uuid "e7c811f7-6ad6-4439-9af4-aeef0ea4d077")
-	)
-	(no_connect
-		(at 144.78 123.19)
-		(uuid "f6a68e37-5893-4573-9cad-8581a3b785ae")
 	)
 	(no_connect
 		(at 233.68 152.4)
@@ -6537,7 +6533,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 133.35) (xy 212.09 133.35)
+			(xy 144.78 125.73) (xy 132.08 125.73)
 		)
 		(stroke
 			(width 0)
@@ -7687,7 +7683,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 135.89) (xy 212.09 135.89)
+			(xy 144.78 128.27) (xy 132.08 128.27)
 		)
 		(stroke
 			(width 0)
@@ -8147,6 +8143,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 130.81) (xy 189.23 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2853525-d1ed-4211-8b16-5216cd319f86")
+	)
+	(wire
+		(pts
 			(xy 265.43 106.68) (xy 275.59 106.68)
 		)
 		(stroke
@@ -8177,7 +8183,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 130.81) (xy 212.09 130.81)
+			(xy 144.78 123.19) (xy 132.08 123.19)
 		)
 		(stroke
 			(width 0)
@@ -8865,13 +8871,13 @@
 		(uuid "327efc88-c776-482c-9d6a-4bdc3d8d561b")
 	)
 	(label "LED_BLUE"
-		(at 212.09 130.81 180)
+		(at 132.08 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "331f9c22-36ed-48e3-9cab-f06d3bb269da")
 	)
@@ -9008,13 +9014,13 @@
 		(uuid "51a3bfb2-fce7-47c3-b3c5-3ec0d7dec2f3")
 	)
 	(label "LED_GREEN"
-		(at 212.09 133.35 180)
+		(at 132.08 125.73 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "58c68c01-0e0e-4ccc-ace2-7ef635621022")
 	)
@@ -9041,13 +9047,13 @@
 		(uuid "6ba929bf-1874-4f9e-9ade-3438b34d4920")
 	)
 	(label "LED_RED"
-		(at 212.09 135.89 180)
+		(at 132.08 128.27 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "7188cf67-6a45-4903-b09c-be23c0c99348")
 	)
@@ -9558,6 +9564,18 @@
 		)
 		(uuid "97cc51a9-3d7c-4254-bad2-6c02e5159f9e")
 	)
+	(hierarchical_label "GND2_CTR"
+		(shape output)
+		(at 189.23 130.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bc4c4b78-06ba-4144-a550-76c06ea8675e")
+	)
 	(hierarchical_label "OUT-"
 		(shape input)
 		(at 189.23 120.65 0)
@@ -9594,7 +9612,7 @@
 		)
 		(uuid "e5ad0b33-f469-4418-9ef4-a45cd724de8e")
 	)
-	(hierarchical_label "GND_CTR"
+	(hierarchical_label "GND1_CTR"
 		(shape output)
 		(at 189.23 36.83 0)
 		(fields_autoplaced yes)

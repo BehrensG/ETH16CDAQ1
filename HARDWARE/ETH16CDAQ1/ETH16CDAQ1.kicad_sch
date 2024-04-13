@@ -268,6 +268,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 68.58) (xy 124.46 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9dfb9e7-10d8-4911-8c04-515f17b9f0f4")
+	)
+	(wire
+		(pts
 			(xy 119.38 53.34) (xy 124.46 53.34)
 		)
 		(stroke
@@ -786,7 +796,7 @@
 			)
 			(uuid "31a9838f-868c-4b8a-bfe9-e37ff70b59eb")
 		)
-		(pin "GND_CTR" input
+		(pin "GND1_CTR" input
 			(at 119.38 66.04 0)
 			(effects
 				(font
@@ -795,6 +805,16 @@
 				(justify right)
 			)
 			(uuid "5c757665-bd31-495d-9dc6-e1b74c8d597d")
+		)
+		(pin "GND2_CTR" input
+			(at 119.38 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "697ec886-c2cf-4471-8355-816d350776ac")
 		)
 		(instances
 			(project "ETH16CDAQ1"
@@ -1004,7 +1024,7 @@
 			)
 			(uuid "f24d4d8a-eb02-4c0c-afd5-4492bad89840")
 		)
-		(pin "GND_CTR" output
+		(pin "GND1_CTR" output
 			(at 124.46 66.04 180)
 			(effects
 				(font
@@ -1013,6 +1033,16 @@
 				(justify left)
 			)
 			(uuid "5fc658b2-aade-424f-90d8-aecf32bcd9e4")
+		)
+		(pin "GND2_CTR" output
+			(at 124.46 68.58 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "26c3c1ec-3ae2-4268-9a17-b3576aee1a74")
 		)
 		(instances
 			(project "ETH16CDAQ1"
