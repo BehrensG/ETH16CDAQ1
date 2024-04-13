@@ -9621,7 +9621,7 @@
 		(fields_autoplaced yes)
 		(uuid "ea65c8ea-a268-49a9-b165-52521bfad302")
 		(property "Reference" "RN302"
-			(at 101.6 168.275 0)
+			(at 101.6 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9630,7 +9630,7 @@
 			)
 		)
 		(property "Value" "EXB-V8V103JV"
-			(at 101.6 170.815 0)
+			(at 101.6 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
