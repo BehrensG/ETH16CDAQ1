@@ -508,7 +508,7 @@
 			)
 		)
 	)
-	(symbol "PDME2-S24-D24-S"
+	(symbol "RB-2424D"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -521,7 +521,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PDME2-S24-D24-S"
+		(property "Value" "RB-2424D"
 			(at -3.81 6.35 0)
 			(effects
 				(font
@@ -530,7 +530,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ETH16CDAQ1:CONV_PDME2-S24-D24-S"
+		(property "Footprint" ""
 			(at 0 -8.89 0)
 			(effects
 				(font
@@ -566,7 +566,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "PDME2-S24-D24-S_0_1"
+		(symbol "RB-2424D_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -627,7 +627,7 @@
 				)
 			)
 		)
-		(symbol "PDME2-S24-D24-S_1_1"
+		(symbol "RB-2424D_1_1"
 			(pin power_in line
 				(at -10.16 2.54 0)
 				(length 2.54)
@@ -720,7 +720,181 @@
 			)
 		)
 	)
-	(symbol "PDME2-S24-S9-S"
+	(symbol "REF1933AIDDCT"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 2.54 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "REF1933AIDDCT"
+			(at 1.27 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 -1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ref1941.pdf?ts=1711096403483&ref_url=https%253A%252F%252Fwww.mouser.it%252F"
+			(at 0 -1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Precision voltage references 3V, DIP-8/SO-8/TSSOP-8"
+			(at 2.286 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "Precision voltage references"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "DIP*W7.62mm* SOIC*3.9x4.9m*P1.27mm* TSSOP*4.4x3mm*P0.65mm*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "REF1933AIDDCT_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "REF1933AIDDCT_1_1"
+			(pin power_out line
+				(at 10.16 -2.54 180)
+				(length 2.54)
+				(name "Vbias"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -7.62 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -10.16 0 0)
+				(length 2.54)
+				(name "EN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 7.62 270)
+				(length 2.54)
+				(name "Vin"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 10.16 2.54 180)
+				(length 2.54)
+				(name "Vref"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "RKZE-2405S"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -733,7 +907,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PDME2-S24-S9-S"
+		(property "Value" "RKZE-2405S"
 			(at -3.81 6.35 0)
 			(effects
 				(font
@@ -742,7 +916,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ETH16CDAQ1:CONV_PDME2-S24-S9-S"
+		(property "Footprint" "ETH16CDAQ1:CONV_RKZE-2405S"
 			(at 0 -8.89 0)
 			(effects
 				(font
@@ -778,7 +952,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "PDME2-S24-S9-S_0_1"
+		(symbol "RKZE-2405S_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -839,7 +1013,7 @@
 				)
 			)
 		)
-		(symbol "PDME2-S24-S9-S_1_1"
+		(symbol "RKZE-2405S_1_1"
 			(pin power_in line
 				(at -10.16 2.54 0)
 				(length 2.54)
@@ -886,7 +1060,7 @@
 						)
 					)
 				)
-				(number "4"
+				(number "5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -904,7 +1078,7 @@
 						)
 					)
 				)
-				(number "6"
+				(number "7"
 					(effects
 						(font
 							(size 1.27 1.27)

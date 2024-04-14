@@ -4413,7 +4413,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 143.51) (xy 119.38 144.78)
+			(xy 118.11 143.51) (xy 118.11 144.78)
 		)
 		(stroke
 			(width 0)
@@ -5683,7 +5683,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 143.51) (xy 119.38 143.51)
+			(xy 109.22 143.51) (xy 118.11 143.51)
 		)
 		(stroke
 			(width 0)
@@ -7636,7 +7636,7 @@
 		(uuid "a0d9a86f-ab1a-4b68-9dc8-b029a85a896d")
 	)
 	(label "RLY_GND2"
-		(at 110.49 143.51 0)
+		(at 109.22 143.51 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8205,7 +8205,7 @@
 	)
 	(hierarchical_label "GND2_CTR"
 		(shape input)
-		(at 104.14 149.86 180)
+		(at 102.87 149.86 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9227,7 +9227,7 @@
 				)
 			)
 		)
-		(property "Value" "100k/0.1%"
+		(property "Value" "1Meg/0.1%"
 			(at 187.96 48.006 90)
 			(effects
 				(font
@@ -13403,7 +13403,7 @@
 				)
 			)
 		)
-		(property "Value" "100k/0.1%"
+		(property "Value" "1Meg/0.1%"
 			(at 187.96 17.526 90)
 			(effects
 				(font
@@ -14448,7 +14448,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k/0.1%"
+		(property "Value" "1Meg/0.1%"
 			(at 195.58 64.7699 0)
 			(effects
 				(font
@@ -14992,7 +14992,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 119.38 154.94 0)
+		(at 118.11 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15000,7 +15000,7 @@
 		(dnp no)
 		(uuid "ae9d870a-93cb-4a72-85be-e55c8801666d")
 		(property "Reference" "#PWR0461"
-			(at 119.38 161.29 0)
+			(at 118.11 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15009,7 +15009,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 119.38 159.004 0)
+			(at 118.11 159.004 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15017,7 +15017,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 154.94 0)
+			(at 118.11 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15026,7 +15026,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 154.94 0)
+			(at 118.11 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15035,7 +15035,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 154.94 0)
+			(at 118.11 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15758,7 +15758,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 116.84 149.86 0)
+		(at 115.57 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15767,7 +15767,7 @@
 		(fields_autoplaced yes)
 		(uuid "bb1d1472-bd82-4252-a75e-9a2660d32d51")
 		(property "Reference" "Q418"
-			(at 121.92 148.5899 0)
+			(at 120.65 148.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15776,7 +15776,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 121.92 151.1299 0)
+			(at 120.65 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15785,7 +15785,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 121.92 151.765 0)
+			(at 120.65 151.765 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15796,7 +15796,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 116.84 149.86 0)
+			(at 115.57 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15806,7 +15806,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 116.84 149.86 0)
+			(at 115.57 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16345,7 +16345,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k/0.1%"
+		(property "Value" "1Meg/0.1%"
 			(at 195.58 34.2899 0)
 			(effects
 				(font
@@ -16898,7 +16898,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 107.95 149.86 90)
+		(at 106.68 149.86 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16906,7 +16906,7 @@
 		(dnp no)
 		(uuid "e4630e5f-c1c1-4610-bd8d-320c66e3646d")
 		(property "Reference" "R408"
-			(at 107.95 145.542 90)
+			(at 106.68 145.542 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16914,7 +16914,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 107.95 147.574 90)
+			(at 106.68 147.574 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16922,7 +16922,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 107.95 151.638 90)
+			(at 106.68 151.638 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16931,7 +16931,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 107.95 149.86 0)
+			(at 106.68 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16940,7 +16940,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 107.95 149.86 0)
+			(at 106.68 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)

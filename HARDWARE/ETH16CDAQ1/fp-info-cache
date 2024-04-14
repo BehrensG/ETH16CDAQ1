@@ -1,4 +1,4 @@
-23162592569559032
+23164306119216592
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55671,19 +55671,26 @@ ETH16CDAQ1
 2
 1
 ETH16CDAQ1
-CONV_PDME2-S24-D24-S
+CONV_RB-2424D
 
 
 0
 5
 5
 ETH16CDAQ1
-CONV_PDME2-S24-S9-S
+CONV_RKZE-2405S
 
 
 0
 4
 4
+ETH16CDAQ1
+IND_RLS-126-R
+
+
+0
+2
+2
 ETH16CDAQ1
 NX5032GA
 Crystal
