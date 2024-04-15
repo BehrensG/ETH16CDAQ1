@@ -3803,6 +3803,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 146.05) (xy 102.87 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01ece611-5a77-4b76-a760-c4f47030ecfd")
+	)
+	(wire
+		(pts
 			(xy 146.05 54.61) (xy 146.05 50.8)
 		)
 		(stroke
@@ -3843,7 +3853,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 127) (xy 271.78 128.27)
+			(xy 271.78 121.92) (xy 271.78 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3893,7 +3903,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 152.4) (xy 172.72 152.4)
+			(xy 180.34 147.32) (xy 172.72 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4003,7 +4013,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 88.9) (xy 243.84 88.9)
+			(xy 234.95 83.82) (xy 243.84 83.82)
 		)
 		(stroke
 			(width 0)
@@ -4043,7 +4053,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 146.05) (xy 187.96 146.05)
+			(xy 179.07 140.97) (xy 187.96 140.97)
 		)
 		(stroke
 			(width 0)
@@ -4123,7 +4133,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 152.4) (xy 256.54 152.4)
+			(xy 264.16 147.32) (xy 256.54 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4153,7 +4163,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 146.05) (xy 215.9 147.32)
+			(xy 215.9 140.97) (xy 215.9 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4253,7 +4263,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 95.25) (xy 256.54 95.25)
+			(xy 264.16 90.17) (xy 256.54 90.17)
 		)
 		(stroke
 			(width 0)
@@ -4323,7 +4333,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 107.95) (xy 271.78 109.22)
+			(xy 271.78 102.87) (xy 271.78 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4373,7 +4383,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 133.35) (xy 228.6 133.35)
+			(xy 236.22 128.27) (xy 228.6 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4403,7 +4413,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 127) (xy 271.78 127)
+			(xy 262.89 121.92) (xy 271.78 121.92)
 		)
 		(stroke
 			(width 0)
@@ -4413,7 +4423,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 143.51) (xy 118.11 144.78)
+			(xy 119.38 139.7) (xy 119.38 140.97)
 		)
 		(stroke
 			(width 0)
@@ -4603,7 +4613,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 146.05) (xy 187.96 147.32)
+			(xy 187.96 140.97) (xy 187.96 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4623,7 +4633,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 107.95) (xy 215.9 109.22)
+			(xy 215.9 102.87) (xy 215.9 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4643,7 +4653,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 88.9) (xy 243.84 90.17)
+			(xy 243.84 83.82) (xy 243.84 85.09)
 		)
 		(stroke
 			(width 0)
@@ -4733,7 +4743,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 88.9) (xy 215.9 90.17)
+			(xy 215.9 83.82) (xy 215.9 85.09)
 		)
 		(stroke
 			(width 0)
@@ -4753,7 +4763,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 107.95) (xy 243.84 109.22)
+			(xy 243.84 102.87) (xy 243.84 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4823,7 +4833,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 152.4) (xy 200.66 152.4)
+			(xy 208.28 147.32) (xy 200.66 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4873,7 +4883,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 146.05) (xy 271.78 146.05)
+			(xy 262.89 140.97) (xy 271.78 140.97)
 		)
 		(stroke
 			(width 0)
@@ -4893,7 +4903,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 95.25) (xy 172.72 95.25)
+			(xy 180.34 90.17) (xy 172.72 90.17)
 		)
 		(stroke
 			(width 0)
@@ -4923,7 +4933,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 88.9) (xy 187.96 88.9)
+			(xy 179.07 83.82) (xy 187.96 83.82)
 		)
 		(stroke
 			(width 0)
@@ -4993,7 +5003,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 88.9) (xy 271.78 90.17)
+			(xy 271.78 83.82) (xy 271.78 85.09)
 		)
 		(stroke
 			(width 0)
@@ -5063,7 +5073,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 88.9) (xy 187.96 90.17)
+			(xy 187.96 83.82) (xy 187.96 85.09)
 		)
 		(stroke
 			(width 0)
@@ -5113,7 +5123,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 127) (xy 215.9 128.27)
+			(xy 215.9 121.92) (xy 215.9 123.19)
 		)
 		(stroke
 			(width 0)
@@ -5163,7 +5173,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 114.3) (xy 256.54 114.3)
+			(xy 264.16 109.22) (xy 256.54 109.22)
 		)
 		(stroke
 			(width 0)
@@ -5233,7 +5243,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 127) (xy 243.84 127)
+			(xy 234.95 121.92) (xy 243.84 121.92)
 		)
 		(stroke
 			(width 0)
@@ -5253,7 +5263,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 114.3) (xy 236.22 114.3)
+			(xy 228.6 109.22) (xy 236.22 109.22)
 		)
 		(stroke
 			(width 0)
@@ -5333,7 +5343,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 114.3) (xy 172.72 114.3)
+			(xy 180.34 109.22) (xy 172.72 109.22)
 		)
 		(stroke
 			(width 0)
@@ -5393,7 +5403,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 133.35) (xy 256.54 133.35)
+			(xy 264.16 128.27) (xy 256.54 128.27)
 		)
 		(stroke
 			(width 0)
@@ -5443,7 +5453,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 127) (xy 187.96 128.27)
+			(xy 187.96 121.92) (xy 187.96 123.19)
 		)
 		(stroke
 			(width 0)
@@ -5493,7 +5503,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 88.9) (xy 271.78 88.9)
+			(xy 262.89 83.82) (xy 271.78 83.82)
 		)
 		(stroke
 			(width 0)
@@ -5543,7 +5553,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 107.95) (xy 271.78 107.95)
+			(xy 262.89 102.87) (xy 271.78 102.87)
 		)
 		(stroke
 			(width 0)
@@ -5553,7 +5563,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 95.25) (xy 200.66 95.25)
+			(xy 208.28 90.17) (xy 200.66 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5573,7 +5583,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 88.9) (xy 215.9 88.9)
+			(xy 207.01 83.82) (xy 215.9 83.82)
 		)
 		(stroke
 			(width 0)
@@ -5683,7 +5693,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 143.51) (xy 118.11 143.51)
+			(xy 110.49 139.7) (xy 119.38 139.7)
 		)
 		(stroke
 			(width 0)
@@ -5713,7 +5723,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 107.95) (xy 243.84 107.95)
+			(xy 234.95 102.87) (xy 243.84 102.87)
 		)
 		(stroke
 			(width 0)
@@ -5723,7 +5733,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 127) (xy 243.84 128.27)
+			(xy 243.84 121.92) (xy 243.84 123.19)
 		)
 		(stroke
 			(width 0)
@@ -5733,7 +5743,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 107.95) (xy 187.96 109.22)
+			(xy 187.96 102.87) (xy 187.96 104.14)
 		)
 		(stroke
 			(width 0)
@@ -5803,7 +5813,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 146.05) (xy 271.78 147.32)
+			(xy 271.78 140.97) (xy 271.78 142.24)
 		)
 		(stroke
 			(width 0)
@@ -5853,7 +5863,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 95.25) (xy 228.6 95.25)
+			(xy 236.22 90.17) (xy 228.6 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5863,7 +5873,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 127) (xy 215.9 127)
+			(xy 207.01 121.92) (xy 215.9 121.92)
 		)
 		(stroke
 			(width 0)
@@ -5983,7 +5993,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 133.35) (xy 172.72 133.35)
+			(xy 180.34 128.27) (xy 172.72 128.27)
 		)
 		(stroke
 			(width 0)
@@ -6033,7 +6043,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 152.4) (xy 228.6 152.4)
+			(xy 236.22 147.32) (xy 228.6 147.32)
 		)
 		(stroke
 			(width 0)
@@ -6153,7 +6163,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 114.3) (xy 200.66 114.3)
+			(xy 208.28 109.22) (xy 200.66 109.22)
 		)
 		(stroke
 			(width 0)
@@ -6173,7 +6183,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 144.78) (xy 157.48 146.05)
+			(xy 158.75 140.97) (xy 158.75 142.24)
 		)
 		(stroke
 			(width 0)
@@ -6193,7 +6203,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 146.05) (xy 215.9 146.05)
+			(xy 207.01 140.97) (xy 215.9 140.97)
 		)
 		(stroke
 			(width 0)
@@ -6213,7 +6223,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 146.05) (xy 243.84 146.05)
+			(xy 234.95 140.97) (xy 243.84 140.97)
 		)
 		(stroke
 			(width 0)
@@ -6273,7 +6283,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 127) (xy 187.96 127)
+			(xy 179.07 121.92) (xy 187.96 121.92)
 		)
 		(stroke
 			(width 0)
@@ -6323,7 +6333,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 133.35) (xy 200.66 133.35)
+			(xy 208.28 128.27) (xy 200.66 128.27)
 		)
 		(stroke
 			(width 0)
@@ -6433,7 +6443,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 146.05) (xy 243.84 147.32)
+			(xy 243.84 140.97) (xy 243.84 142.24)
 		)
 		(stroke
 			(width 0)
@@ -6503,7 +6513,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 107.95) (xy 187.96 107.95)
+			(xy 179.07 102.87) (xy 187.96 102.87)
 		)
 		(stroke
 			(width 0)
@@ -6663,7 +6673,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 107.95) (xy 215.9 107.95)
+			(xy 207.01 102.87) (xy 215.9 102.87)
 		)
 		(stroke
 			(width 0)
@@ -6793,7 +6803,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 144.78) (xy 157.48 144.78)
+			(xy 149.86 140.97) (xy 158.75 140.97)
 		)
 		(stroke
 			(width 0)
@@ -6833,7 +6843,7 @@
 		(uuid "0154b109-6972-450c-9049-3425af09ccc1")
 	)
 	(label "RLY_13"
-		(at 234.95 107.95 0)
+		(at 234.95 102.87 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6910,7 +6920,7 @@
 		(uuid "1ac5ed67-4924-4f48-900e-fed5792e2a21")
 	)
 	(label "RLY_1"
-		(at 262.89 146.05 0)
+		(at 262.89 140.97 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6932,7 +6942,7 @@
 		(uuid "1d3771ed-4aef-4cd4-8087-5d838534102b")
 	)
 	(label "RLY_14"
-		(at 207.01 127 0)
+		(at 207.01 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7042,7 +7052,7 @@
 		(uuid "2d3003b0-2c33-48f0-addf-0b8ba3c59fd5")
 	)
 	(label "RCTR6"
-		(at 172.72 133.35 0)
+		(at 172.72 128.27 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7064,7 +7074,7 @@
 		(uuid "31a2dc3e-0ef1-469a-851d-195a11d5c1d9")
 	)
 	(label "RCTR16"
-		(at 200.66 152.4 0)
+		(at 200.66 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7086,7 +7096,7 @@
 		(uuid "3232e3bb-ad25-4bb4-83e5-2b829b141f88")
 	)
 	(label "RCTR10"
-		(at 200.66 95.25 0)
+		(at 200.66 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7152,7 +7162,7 @@
 		(uuid "3b013744-27ed-475d-8fb4-9d2d39f1091b")
 	)
 	(label "RCTR4"
-		(at 172.72 114.3 0)
+		(at 172.72 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7163,7 +7173,7 @@
 		(uuid "3cd2551a-18bc-41ab-83d3-d82eefa50d4c")
 	)
 	(label "RCTR14"
-		(at 200.66 133.35 0)
+		(at 200.66 128.27 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7185,7 +7195,7 @@
 		(uuid "3d791aa4-0574-402a-8e08-1ec945e30888")
 	)
 	(label "RCTR1"
-		(at 256.54 152.4 0)
+		(at 256.54 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7207,7 +7217,7 @@
 		(uuid "44fe5697-e6e2-4277-90ca-21f559740faf")
 	)
 	(label "RLY_9"
-		(at 234.95 146.05 0)
+		(at 234.95 140.97 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7229,7 +7239,7 @@
 		(uuid "48684d74-8c7f-403a-8e99-bdca35eae5c3")
 	)
 	(label "RCTR7"
-		(at 256.54 95.25 0)
+		(at 256.54 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7251,7 +7261,7 @@
 		(uuid "4dcb0407-47ef-4ac2-b406-86d1ff9dafd4")
 	)
 	(label "RCTR5"
-		(at 256.54 114.3 0)
+		(at 256.54 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7273,7 +7283,7 @@
 		(uuid "52da4288-d2b6-462b-9ac1-ce25d009e032")
 	)
 	(label "RLY_4"
-		(at 179.07 107.95 0)
+		(at 179.07 102.87 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7317,7 +7327,7 @@
 		(uuid "57ee5f88-23a1-4f49-9c8f-f7e7203ba73f")
 	)
 	(label "RCTR13"
-		(at 228.6 114.3 0)
+		(at 228.6 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7328,7 +7338,7 @@
 		(uuid "5b72e1c1-2457-4820-9002-68316292b689")
 	)
 	(label "RCTR12"
-		(at 200.66 114.3 0)
+		(at 200.66 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7460,7 +7470,7 @@
 		(uuid "811ede9c-1e80-4c9b-9b91-a6b13b15c055")
 	)
 	(label "RLY_11"
-		(at 234.95 127 0)
+		(at 234.95 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7526,7 +7536,7 @@
 		(uuid "8cee4cbc-6935-4141-bf00-1d46854625de")
 	)
 	(label "RLY_GND1"
-		(at 148.59 144.78 0)
+		(at 149.86 140.97 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7537,7 +7547,7 @@
 		(uuid "906bbb76-a2db-4a16-bc29-af212653fa0b")
 	)
 	(label "RLY_10"
-		(at 207.01 88.9 0)
+		(at 207.01 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7548,7 +7558,7 @@
 		(uuid "91b4386f-7307-4faa-b456-b0f18a17bd09")
 	)
 	(label "RCTR15"
-		(at 228.6 95.25 0)
+		(at 228.6 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7570,7 +7580,7 @@
 		(uuid "9615c96e-3bf7-4f2c-a31b-34d61cb84425")
 	)
 	(label "RLY_15"
-		(at 234.95 88.9 0)
+		(at 234.95 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7603,7 +7613,7 @@
 		(uuid "981a5e53-1376-4ca8-bf39-f123891b7259")
 	)
 	(label "RCTR2"
-		(at 172.72 95.25 0)
+		(at 172.72 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7625,7 +7635,7 @@
 		(uuid "9a72db43-62ab-4809-a3f9-e5cdb17eb1f0")
 	)
 	(label "RCTR9"
-		(at 228.6 152.4 0)
+		(at 228.6 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7636,7 +7646,7 @@
 		(uuid "a0d9a86f-ab1a-4b68-9dc8-b029a85a896d")
 	)
 	(label "RLY_GND2"
-		(at 109.22 143.51 0)
+		(at 110.49 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7658,7 +7668,7 @@
 		(uuid "ac8391c9-acf4-4d4a-ae0e-d9a4a8a6ce9a")
 	)
 	(label "RLY_7"
-		(at 262.89 88.9 0)
+		(at 262.89 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7779,7 +7789,7 @@
 		(uuid "bdddbd24-433b-4fee-9424-982c603abe2c")
 	)
 	(label "RLY_8"
-		(at 179.07 146.05 0)
+		(at 179.07 140.97 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7834,7 +7844,7 @@
 		(uuid "c694f3c5-6b1a-497c-9f28-ac6bc8fbc044")
 	)
 	(label "RLY_12"
-		(at 207.01 107.95 0)
+		(at 207.01 102.87 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7900,7 +7910,7 @@
 		(uuid "d1e863c8-a0b6-4d7d-b011-9547c39645e4")
 	)
 	(label "RCTR11"
-		(at 228.6 133.35 0)
+		(at 228.6 128.27 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7933,7 +7943,7 @@
 		(uuid "d665f906-f72f-4fa2-80e5-855a71c878bb")
 	)
 	(label "RCTR8"
-		(at 172.72 152.4 0)
+		(at 172.72 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7966,7 +7976,7 @@
 		(uuid "da5d6533-3386-4c21-b226-c3bcea127fe0")
 	)
 	(label "RLY_6"
-		(at 179.07 127 0)
+		(at 179.07 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7977,7 +7987,7 @@
 		(uuid "da76a58d-48a0-43bd-bb1c-91745117e72b")
 	)
 	(label "RLY_5"
-		(at 262.89 107.95 0)
+		(at 262.89 102.87 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8021,7 +8031,7 @@
 		(uuid "e5a51197-aa50-48bb-a3af-1b407ebd5440")
 	)
 	(label "RLY_3"
-		(at 262.89 127 0)
+		(at 262.89 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8054,7 +8064,7 @@
 		(uuid "ee3a5723-4a9b-4b77-b160-e466396248e1")
 	)
 	(label "RLY_2"
-		(at 179.07 88.9 0)
+		(at 179.07 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8065,7 +8075,7 @@
 		(uuid "f0df193c-096f-4205-9eaf-cfe111b5d29c")
 	)
 	(label "RLY_16"
-		(at 207.01 146.05 0)
+		(at 207.01 140.97 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8087,7 +8097,7 @@
 		(uuid "fa86fa72-7f76-4609-9e11-b74fb0df662e")
 	)
 	(label "RCTR3"
-		(at 256.54 133.35 0)
+		(at 256.54 128.27 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8133,7 +8143,7 @@
 	)
 	(hierarchical_label "GND1_CTR"
 		(shape input)
-		(at 142.24 151.13 180)
+		(at 143.51 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8205,7 +8215,7 @@
 	)
 	(hierarchical_label "GND2_CTR"
 		(shape input)
-		(at 102.87 149.86 180)
+		(at 102.87 146.05 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8229,7 +8239,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 241.3 133.35 0)
+		(at 241.3 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8238,7 +8248,7 @@
 		(fields_autoplaced yes)
 		(uuid "001bcaa8-e597-4fe7-aea6-b8ec447d2617")
 		(property "Reference" "Q411"
-			(at 246.38 132.0799 0)
+			(at 246.38 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8247,7 +8257,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 246.38 134.6199 0)
+			(at 246.38 129.5399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8256,7 +8266,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 246.38 135.255 0)
+			(at 246.38 130.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8267,7 +8277,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 241.3 133.35 0)
+			(at 241.3 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8277,7 +8287,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 241.3 133.35 0)
+			(at 241.3 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8437,7 +8447,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 269.24 114.3 0)
+		(at 269.24 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8446,7 +8456,7 @@
 		(fields_autoplaced yes)
 		(uuid "09e24d75-625c-4fea-8ea2-c6f7150bffb2")
 		(property "Reference" "Q414"
-			(at 274.32 113.0299 0)
+			(at 274.32 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8455,7 +8465,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 274.32 115.5699 0)
+			(at 274.32 110.4899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8464,7 +8474,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 274.32 116.205 0)
+			(at 274.32 111.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8475,7 +8485,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 269.24 114.3 0)
+			(at 269.24 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8485,7 +8495,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 269.24 114.3 0)
+			(at 269.24 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8513,7 +8523,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 187.96 100.33 0)
+		(at 187.96 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8521,7 +8531,7 @@
 		(dnp no)
 		(uuid "0ab9037a-a8f5-45ca-95c9-b3289bbe3f8a")
 		(property "Reference" "#PWR0429"
-			(at 187.96 106.68 0)
+			(at 187.96 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8530,7 +8540,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 187.96 104.394 0)
+			(at 187.96 99.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8538,7 +8548,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 100.33 0)
+			(at 187.96 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8547,7 +8557,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 100.33 0)
+			(at 187.96 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8556,7 +8566,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 100.33 0)
+			(at 187.96 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8578,7 +8588,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 213.36 114.3 0)
+		(at 213.36 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8587,7 +8597,7 @@
 		(fields_autoplaced yes)
 		(uuid "0d08768c-0d58-40e2-9676-5cbf65535201")
 		(property "Reference" "Q406"
-			(at 218.44 113.0299 0)
+			(at 218.44 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8596,7 +8606,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 218.44 115.5699 0)
+			(at 218.44 110.4899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8605,7 +8615,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 218.44 116.205 0)
+			(at 218.44 111.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8616,7 +8626,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 213.36 114.3 0)
+			(at 213.36 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8626,7 +8636,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 213.36 114.3 0)
+			(at 213.36 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8742,7 +8752,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 215.9 138.43 0)
+		(at 215.9 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8750,7 +8760,7 @@
 		(dnp no)
 		(uuid "183453dd-a807-4c2b-acc2-485f65b81f26")
 		(property "Reference" "#PWR0438"
-			(at 215.9 144.78 0)
+			(at 215.9 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8759,7 +8769,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 215.9 142.494 0)
+			(at 215.9 137.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8767,7 +8777,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 138.43 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8776,7 +8786,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 138.43 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8785,7 +8795,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 215.9 138.43 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9861,7 +9871,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 243.84 100.33 0)
+		(at 243.84 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9869,7 +9879,7 @@
 		(dnp no)
 		(uuid "37541320-e49d-4410-a64a-2dac33843e66")
 		(property "Reference" "#PWR0445"
-			(at 243.84 106.68 0)
+			(at 243.84 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9878,7 +9888,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 243.84 104.394 0)
+			(at 243.84 99.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9886,7 +9896,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 100.33 0)
+			(at 243.84 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9895,7 +9905,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 100.33 0)
+			(at 243.84 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9904,7 +9914,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 243.84 100.33 0)
+			(at 243.84 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9992,7 +10002,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 187.96 119.38 0)
+		(at 187.96 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10000,7 +10010,7 @@
 		(dnp no)
 		(uuid "394c76e2-6b48-4953-83b9-84ba5a1d2ce0")
 		(property "Reference" "#PWR0430"
-			(at 187.96 125.73 0)
+			(at 187.96 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10009,7 +10019,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 187.96 123.444 0)
+			(at 187.96 118.364 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10017,7 +10027,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 119.38 0)
+			(at 187.96 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10026,7 +10036,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 119.38 0)
+			(at 187.96 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10035,7 +10045,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 119.38 0)
+			(at 187.96 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10187,7 +10197,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 215.9 157.48 0)
+		(at 215.9 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10195,7 +10205,7 @@
 		(dnp no)
 		(uuid "3e1232e6-424b-400e-80b6-0dd4d9381747")
 		(property "Reference" "#PWR0439"
-			(at 215.9 163.83 0)
+			(at 215.9 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10204,7 +10214,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 215.9 161.544 0)
+			(at 215.9 156.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10212,7 +10222,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 157.48 0)
+			(at 215.9 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10221,7 +10231,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 157.48 0)
+			(at 215.9 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10230,7 +10240,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 215.9 157.48 0)
+			(at 215.9 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10789,7 +10799,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 241.3 95.25 0)
+		(at 241.3 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10798,7 +10808,7 @@
 		(fields_autoplaced yes)
 		(uuid "493452e6-94ad-40f4-b677-35f35bb568d6")
 		(property "Reference" "Q409"
-			(at 246.38 93.9799 0)
+			(at 246.38 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10807,7 +10817,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 246.38 96.5199 0)
+			(at 246.38 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10816,7 +10826,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 246.38 97.155 0)
+			(at 246.38 92.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10827,7 +10837,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 241.3 95.25 0)
+			(at 241.3 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10837,7 +10847,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 241.3 95.25 0)
+			(at 241.3 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11171,7 +11181,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 213.36 152.4 0)
+		(at 213.36 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11180,7 +11190,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f3306c1-908f-47ad-8c4b-1e8ec6fdd036")
 		(property "Reference" "Q408"
-			(at 218.44 151.1299 0)
+			(at 218.44 146.0499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11189,7 +11199,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 218.44 153.6699 0)
+			(at 218.44 148.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11198,7 +11208,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 218.44 154.305 0)
+			(at 218.44 149.225 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11209,7 +11219,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 213.36 152.4 0)
+			(at 213.36 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11219,7 +11229,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 213.36 152.4 0)
+			(at 213.36 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11312,7 +11322,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 185.42 114.3 0)
+		(at 185.42 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11321,7 +11331,7 @@
 		(fields_autoplaced yes)
 		(uuid "4fff855c-7f16-4310-86d3-4f2856469202")
 		(property "Reference" "Q402"
-			(at 190.5 113.0299 0)
+			(at 190.5 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11330,7 +11340,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 190.5 115.5699 0)
+			(at 190.5 110.4899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11339,7 +11349,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 190.5 116.205 0)
+			(at 190.5 111.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11350,7 +11360,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 185.42 114.3 0)
+			(at 185.42 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11360,7 +11370,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 185.42 114.3 0)
+			(at 185.42 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11605,7 +11615,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 185.42 95.25 0)
+		(at 185.42 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11614,7 +11624,7 @@
 		(fields_autoplaced yes)
 		(uuid "529c6c5d-ea32-44de-9d1d-dace198c7267")
 		(property "Reference" "Q401"
-			(at 190.5 93.9799 0)
+			(at 190.5 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11623,7 +11633,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 190.5 96.5199 0)
+			(at 190.5 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11632,7 +11642,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 190.5 97.155 0)
+			(at 190.5 92.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11643,7 +11653,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 185.42 95.25 0)
+			(at 185.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11653,7 +11663,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 185.42 95.25 0)
+			(at 185.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11757,7 +11767,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 243.84 138.43 0)
+		(at 243.84 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11765,7 +11775,7 @@
 		(dnp no)
 		(uuid "53169df8-fb6a-4cc4-a546-b1e6f1b6af10")
 		(property "Reference" "#PWR0447"
-			(at 243.84 144.78 0)
+			(at 243.84 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11774,7 +11784,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 243.84 142.494 0)
+			(at 243.84 137.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11782,7 +11792,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 138.43 0)
+			(at 243.84 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11791,7 +11801,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 138.43 0)
+			(at 243.84 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11800,7 +11810,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 243.84 138.43 0)
+			(at 243.84 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11961,7 +11971,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 185.42 152.4 0)
+		(at 185.42 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11970,7 +11980,7 @@
 		(fields_autoplaced yes)
 		(uuid "562cbdde-e497-4d04-ba5c-0bb9b33466c3")
 		(property "Reference" "Q404"
-			(at 190.5 151.1299 0)
+			(at 190.5 146.0499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11979,7 +11989,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 190.5 153.6699 0)
+			(at 190.5 148.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11988,7 +11998,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 190.5 154.305 0)
+			(at 190.5 149.225 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11999,7 +12009,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 185.42 152.4 0)
+			(at 185.42 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12009,7 +12019,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 185.42 152.4 0)
+			(at 185.42 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12102,7 +12112,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 271.78 119.38 0)
+		(at 271.78 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12110,7 +12120,7 @@
 		(dnp no)
 		(uuid "5ab193f4-b28b-47be-95e8-e281cf6148ff")
 		(property "Reference" "#PWR0451"
-			(at 271.78 125.73 0)
+			(at 271.78 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12119,7 +12129,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 271.78 123.444 0)
+			(at 271.78 118.364 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12127,7 +12137,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 271.78 119.38 0)
+			(at 271.78 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12136,7 +12146,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 271.78 119.38 0)
+			(at 271.78 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12145,7 +12155,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 271.78 119.38 0)
+			(at 271.78 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12325,7 +12335,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 213.36 133.35 0)
+		(at 213.36 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12334,7 +12344,7 @@
 		(fields_autoplaced yes)
 		(uuid "5eec1c01-6526-4d0e-889e-b66a3a8f4c42")
 		(property "Reference" "Q407"
-			(at 218.44 132.0799 0)
+			(at 218.44 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12343,7 +12353,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 218.44 134.6199 0)
+			(at 218.44 129.5399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12352,7 +12362,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 218.44 135.255 0)
+			(at 218.44 130.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12363,7 +12373,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 213.36 133.35 0)
+			(at 213.36 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12373,7 +12383,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 213.36 133.35 0)
+			(at 213.36 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12596,7 +12606,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 187.96 157.48 0)
+		(at 187.96 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12604,7 +12614,7 @@
 		(dnp no)
 		(uuid "611fb09c-b5e4-40b6-aa48-e907f2f3fd67")
 		(property "Reference" "#PWR0432"
-			(at 187.96 163.83 0)
+			(at 187.96 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12613,7 +12623,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 187.96 161.544 0)
+			(at 187.96 156.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12621,7 +12631,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 157.48 0)
+			(at 187.96 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12630,7 +12640,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 157.48 0)
+			(at 187.96 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12639,7 +12649,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 157.48 0)
+			(at 187.96 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13098,7 +13108,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 271.78 138.43 0)
+		(at 271.78 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13106,7 +13116,7 @@
 		(dnp no)
 		(uuid "7a7e5571-a839-4933-8fc0-01dae182f49c")
 		(property "Reference" "#PWR0452"
-			(at 271.78 144.78 0)
+			(at 271.78 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13115,7 +13125,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 271.78 142.494 0)
+			(at 271.78 137.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13123,7 +13133,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 271.78 138.43 0)
+			(at 271.78 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13132,7 +13142,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 271.78 138.43 0)
+			(at 271.78 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13141,7 +13151,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 271.78 138.43 0)
+			(at 271.78 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13455,7 +13465,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 215.9 100.33 0)
+		(at 215.9 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13463,7 +13473,7 @@
 		(dnp no)
 		(uuid "85c9f47b-42b5-41c1-b413-a93c93cf682e")
 		(property "Reference" "#PWR0436"
-			(at 215.9 106.68 0)
+			(at 215.9 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13472,7 +13482,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 215.9 104.394 0)
+			(at 215.9 99.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13480,7 +13490,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 100.33 0)
+			(at 215.9 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13489,7 +13499,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 100.33 0)
+			(at 215.9 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13498,7 +13508,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 215.9 100.33 0)
+			(at 215.9 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14030,7 +14040,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 271.78 100.33 0)
+		(at 271.78 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14038,7 +14048,7 @@
 		(dnp no)
 		(uuid "962d4fb0-e910-406b-b06c-406644d79b85")
 		(property "Reference" "#PWR0450"
-			(at 271.78 106.68 0)
+			(at 271.78 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14047,7 +14057,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 271.78 104.394 0)
+			(at 271.78 99.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14055,7 +14065,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 271.78 100.33 0)
+			(at 271.78 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14064,7 +14074,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 271.78 100.33 0)
+			(at 271.78 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14073,7 +14083,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 271.78 100.33 0)
+			(at 271.78 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14095,7 +14105,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 185.42 133.35 0)
+		(at 185.42 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14104,7 +14114,7 @@
 		(fields_autoplaced yes)
 		(uuid "9f67ca9d-996f-433b-aa1f-29a2dc5f6c21")
 		(property "Reference" "Q403"
-			(at 190.5 132.0799 0)
+			(at 190.5 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14113,7 +14123,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 190.5 134.6199 0)
+			(at 190.5 129.5399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14122,7 +14132,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 190.5 135.255 0)
+			(at 190.5 130.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14133,7 +14143,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 185.42 133.35 0)
+			(at 185.42 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14143,7 +14153,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 185.42 133.35 0)
+			(at 185.42 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14171,7 +14181,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 271.78 157.48 0)
+		(at 271.78 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14179,7 +14189,7 @@
 		(dnp no)
 		(uuid "a0ef6a71-a1fa-4d52-9e6a-f4faed753da0")
 		(property "Reference" "#PWR0453"
-			(at 271.78 163.83 0)
+			(at 271.78 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14188,7 +14198,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 271.78 161.544 0)
+			(at 271.78 156.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14196,7 +14206,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 271.78 157.48 0)
+			(at 271.78 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14205,7 +14215,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 271.78 157.48 0)
+			(at 271.78 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14214,7 +14224,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 271.78 157.48 0)
+			(at 271.78 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14301,7 +14311,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 187.96 138.43 0)
+		(at 187.96 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14309,7 +14319,7 @@
 		(dnp no)
 		(uuid "a40699a4-5b9a-442f-b6da-1631618aa69e")
 		(property "Reference" "#PWR0431"
-			(at 187.96 144.78 0)
+			(at 187.96 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14318,7 +14328,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 187.96 142.494 0)
+			(at 187.96 137.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14326,7 +14336,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 138.43 0)
+			(at 187.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14335,7 +14345,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 138.43 0)
+			(at 187.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14344,7 +14354,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 138.43 0)
+			(at 187.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14501,7 +14511,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 157.48 156.21 0)
+		(at 158.75 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14509,7 +14519,7 @@
 		(dnp no)
 		(uuid "a7f87cc9-6497-4407-97b9-c0be557f2d64")
 		(property "Reference" "#PWR0457"
-			(at 157.48 162.56 0)
+			(at 158.75 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14518,7 +14528,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 157.48 160.274 0)
+			(at 158.75 156.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14526,7 +14536,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 157.48 156.21 0)
+			(at 158.75 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14535,7 +14545,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.48 156.21 0)
+			(at 158.75 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14544,7 +14554,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 157.48 156.21 0)
+			(at 158.75 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14916,7 +14926,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 241.3 152.4 0)
+		(at 241.3 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14925,7 +14935,7 @@
 		(fields_autoplaced yes)
 		(uuid "ae99424d-3653-4513-9d44-77339d25b61a")
 		(property "Reference" "Q412"
-			(at 246.38 151.1299 0)
+			(at 246.38 146.0499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14934,7 +14944,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 246.38 153.6699 0)
+			(at 246.38 148.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14943,7 +14953,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 246.38 154.305 0)
+			(at 246.38 149.225 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14954,7 +14964,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 241.3 152.4 0)
+			(at 241.3 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14964,7 +14974,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 241.3 152.4 0)
+			(at 241.3 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14992,7 +15002,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 118.11 154.94 0)
+		(at 119.38 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15000,7 +15010,7 @@
 		(dnp no)
 		(uuid "ae9d870a-93cb-4a72-85be-e55c8801666d")
 		(property "Reference" "#PWR0461"
-			(at 118.11 161.29 0)
+			(at 119.38 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15009,7 +15019,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 118.11 159.004 0)
+			(at 119.38 155.194 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15017,7 +15027,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 118.11 154.94 0)
+			(at 119.38 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15026,7 +15036,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 154.94 0)
+			(at 119.38 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15035,7 +15045,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 118.11 154.94 0)
+			(at 119.38 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15123,7 +15133,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 215.9 119.38 0)
+		(at 215.9 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15131,7 +15141,7 @@
 		(dnp no)
 		(uuid "b3e7b9ce-b31d-43cd-a9bf-4804b8de0bce")
 		(property "Reference" "#PWR0437"
-			(at 215.9 125.73 0)
+			(at 215.9 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15140,7 +15150,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 215.9 123.444 0)
+			(at 215.9 118.364 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15148,7 +15158,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 119.38 0)
+			(at 215.9 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15157,7 +15167,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 119.38 0)
+			(at 215.9 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15166,7 +15176,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 215.9 119.38 0)
+			(at 215.9 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15547,7 +15557,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 154.94 151.13 0)
+		(at 156.21 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15556,7 +15566,7 @@
 		(fields_autoplaced yes)
 		(uuid "ba3f5f98-38d8-4e1b-b12b-7d40539585a1")
 		(property "Reference" "Q417"
-			(at 160.02 149.8599 0)
+			(at 161.29 146.0499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15565,7 +15575,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 160.02 152.3999 0)
+			(at 161.29 148.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15574,7 +15584,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 160.02 153.035 0)
+			(at 161.29 149.225 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15585,7 +15595,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 154.94 151.13 0)
+			(at 156.21 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15595,7 +15605,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 154.94 151.13 0)
+			(at 156.21 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15758,7 +15768,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 115.57 149.86 0)
+		(at 116.84 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15767,7 +15777,7 @@
 		(fields_autoplaced yes)
 		(uuid "bb1d1472-bd82-4252-a75e-9a2660d32d51")
 		(property "Reference" "Q418"
-			(at 120.65 148.5899 0)
+			(at 121.92 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15776,7 +15786,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 120.65 151.1299 0)
+			(at 121.92 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15785,7 +15795,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 120.65 151.765 0)
+			(at 121.92 147.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15796,7 +15806,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 115.57 149.86 0)
+			(at 116.84 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15806,7 +15816,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 115.57 149.86 0)
+			(at 116.84 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15970,7 +15980,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 269.24 133.35 0)
+		(at 269.24 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15979,7 +15989,7 @@
 		(fields_autoplaced yes)
 		(uuid "c196cde1-64d9-4da4-92aa-1ab7ed7dacc7")
 		(property "Reference" "Q415"
-			(at 274.32 132.0799 0)
+			(at 274.32 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15988,7 +15998,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 274.32 134.6199 0)
+			(at 274.32 129.5399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15997,7 +16007,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 274.32 135.255 0)
+			(at 274.32 130.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16008,7 +16018,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 269.24 133.35 0)
+			(at 269.24 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16018,7 +16028,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 269.24 133.35 0)
+			(at 269.24 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16122,7 +16132,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 269.24 152.4 0)
+		(at 269.24 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16131,7 +16141,7 @@
 		(fields_autoplaced yes)
 		(uuid "c32e80b1-a6b3-4323-ab85-7f9af1059d10")
 		(property "Reference" "Q416"
-			(at 274.32 151.1299 0)
+			(at 274.32 146.0499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16140,7 +16150,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 274.32 153.6699 0)
+			(at 274.32 148.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16149,7 +16159,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 274.32 154.305 0)
+			(at 274.32 149.225 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16160,7 +16170,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 269.24 152.4 0)
+			(at 269.24 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16170,7 +16180,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 269.24 152.4 0)
+			(at 269.24 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16198,7 +16208,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 243.84 119.38 0)
+		(at 243.84 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16206,7 +16216,7 @@
 		(dnp no)
 		(uuid "c44671d7-84af-40f1-a1f2-d5d00415dd2a")
 		(property "Reference" "#PWR0446"
-			(at 243.84 125.73 0)
+			(at 243.84 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16215,7 +16225,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 243.84 123.444 0)
+			(at 243.84 118.364 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16223,7 +16233,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 119.38 0)
+			(at 243.84 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16232,7 +16242,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 119.38 0)
+			(at 243.84 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16241,7 +16251,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 243.84 119.38 0)
+			(at 243.84 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16822,7 +16832,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 241.3 114.3 0)
+		(at 241.3 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16831,7 +16841,7 @@
 		(fields_autoplaced yes)
 		(uuid "e450c761-8ae1-403d-9285-515accb64163")
 		(property "Reference" "Q410"
-			(at 246.38 113.0299 0)
+			(at 246.38 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16840,7 +16850,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 246.38 115.5699 0)
+			(at 246.38 110.4899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16849,7 +16859,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 246.38 116.205 0)
+			(at 246.38 111.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16860,7 +16870,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 241.3 114.3 0)
+			(at 241.3 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16870,7 +16880,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 241.3 114.3 0)
+			(at 241.3 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16898,7 +16908,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 106.68 149.86 90)
+		(at 107.95 146.05 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16906,7 +16916,7 @@
 		(dnp no)
 		(uuid "e4630e5f-c1c1-4610-bd8d-320c66e3646d")
 		(property "Reference" "R408"
-			(at 106.68 145.542 90)
+			(at 107.95 141.732 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16914,7 +16924,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 106.68 147.574 90)
+			(at 107.95 143.764 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16922,7 +16932,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 106.68 151.638 90)
+			(at 107.95 147.828 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16931,7 +16941,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 106.68 149.86 0)
+			(at 107.95 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16940,7 +16950,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 106.68 149.86 0)
+			(at 107.95 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17031,7 +17041,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 146.05 151.13 90)
+		(at 147.32 147.32 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17039,7 +17049,7 @@
 		(dnp no)
 		(uuid "e5fed5de-0ddd-4a83-b3e2-046ae044aa75")
 		(property "Reference" "R407"
-			(at 146.05 146.812 90)
+			(at 147.32 143.002 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17047,7 +17057,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 146.05 148.844 90)
+			(at 147.32 145.034 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17055,7 +17065,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 146.05 152.908 90)
+			(at 147.32 149.098 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17064,7 +17074,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.05 151.13 0)
+			(at 147.32 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17073,7 +17083,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 146.05 151.13 0)
+			(at 147.32 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17098,7 +17108,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 269.24 95.25 0)
+		(at 269.24 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17107,7 +17117,7 @@
 		(fields_autoplaced yes)
 		(uuid "e8df3e46-5adf-4eda-87b5-e30a321926bb")
 		(property "Reference" "Q413"
-			(at 274.32 93.9799 0)
+			(at 274.32 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17116,7 +17126,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 274.32 96.5199 0)
+			(at 274.32 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17125,7 +17135,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 274.32 97.155 0)
+			(at 274.32 92.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17136,7 +17146,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 269.24 95.25 0)
+			(at 269.24 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17146,7 +17156,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 269.24 95.25 0)
+			(at 269.24 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17391,7 +17401,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 243.84 157.48 0)
+		(at 243.84 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17399,7 +17409,7 @@
 		(dnp no)
 		(uuid "f2bd8097-f8e3-42e8-b59b-013004d33d4d")
 		(property "Reference" "#PWR0448"
-			(at 243.84 163.83 0)
+			(at 243.84 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17408,7 +17418,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 243.84 161.544 0)
+			(at 243.84 156.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17416,7 +17426,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 157.48 0)
+			(at 243.84 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17425,7 +17435,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 157.48 0)
+			(at 243.84 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17434,7 +17444,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 243.84 157.48 0)
+			(at 243.84 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17675,7 +17685,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817W")
-		(at 213.36 95.25 0)
+		(at 213.36 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17684,7 +17694,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb5c1139-620c-4a8d-8eca-df3a1e2eec7e")
 		(property "Reference" "Q405"
-			(at 218.44 93.9799 0)
+			(at 218.44 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17693,7 +17703,7 @@
 			)
 		)
 		(property "Value" "BC817W"
-			(at 218.44 96.5199 0)
+			(at 218.44 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17702,7 +17712,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 218.44 97.155 0)
+			(at 218.44 92.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17713,7 +17723,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
-			(at 213.36 95.25 0)
+			(at 213.36 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17723,7 +17733,7 @@
 			)
 		)
 		(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-323"
-			(at 213.36 95.25 0)
+			(at 213.36 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
